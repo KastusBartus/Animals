@@ -1,0 +1,64 @@
+header img{
+  width:80px;
+  height:80px ;
+  border:3px solid green;
+}
+
+header{
+  background-color:Yellow;
+  padding:10px;
+  border-radius:10px;
+}
+
+body{
+  background-color:Aqua;
+}
+
+header h1{
+  background-color:Aqua;
+  text-align:center;
+  margin:10px;
+  border:5px solid green;
+  border-radius:10px;
+  
+}
+
+img{
+  width:200px;
+  height:200px ;
+  margin:10px;
+  border:3px solid green;
+}
+
+.red{
+  color:red;
+}
+
+.green{
+  color:Navy;
+}
+
+h1{
+  text-align:center;
+  border-bottom:10px dashed Yellow;
+}
+
+main{
+  background-color:Yellow;
+  border-radius:10px;
+  padding:5px;
+}
+
+.sig{
+  background-color:Aqua;
+
+}
+
+.vtv{
+  width:300px;
+  height:200px ;
+}
+
+footer h1{
+  text-align:center;
+}
